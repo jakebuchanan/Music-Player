@@ -8,3 +8,4 @@ Once that is done, go to the public folder and click on the index file,but don't
 go to the public folder and click on the index file.
 The five songs used are royalty-free.
 The color palette was made using a color palette generator for design purposes.
+The bulk of the project code is in the App.vue file which is in the src file.
