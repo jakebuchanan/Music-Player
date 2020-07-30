@@ -4,7 +4,7 @@ To use the music player you have to have yarn installed.
 To install yarn go to the terminal and input: yarn install
 Once yarn is install go to the terminal and input: yarn serve
 (This will allow the application to be on a server so you can access it in a web browser.)
-Once that is done, go into the spotif folder, but don't close the terminal.
-In the spotif folder, go to the public folder and click on the index file.
+Once that is done, go to the public folder and click on the index file,but don't close the terminal.
+go to the public folder and click on the index file.
 The five songs used are royalty-free.
 The color palette was made using a color palette generator for design purposes.
